@@ -1,4 +1,4 @@
-# Shared Memory with mutexed
+# Shared Memory with Lock
 
 ## 介绍
 
